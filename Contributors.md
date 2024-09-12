@@ -1,6 +1,7 @@
-+
 # Contributors
+- [Aditya Medhane](https://github.com/flash1729) ** This is the start of my legendary Open-Source Journey...**
 - [Robert McClung](https://github.com/Bobaliciousss) **Hi from Arizona!**
+- [Ryan Todd](https://github.com/r2neatha) **Hello :)**
 - [Tristen Calder](https://github.com/TristenCalder) **Hello**
 - [John-PatrickLeis](https://github.com/jleisz/) **my first pull request**
 - [Muhammad Zakria](https://github.com/MZakria54321/)**Its my first time to contribute in open source , thanks**
@@ -40,6 +41,7 @@
 - [El Mehdi Souiyah](https://github.com/mehdi1193) **Moroccan guy making his first Contribution**
 - Andrew Gajewski
 - CarlosMartinez
+- Luke Bowen
 
 - [Mohammed Abdul Raqeeb](https://github.com/Raqeeb27) **👋 Raqeeb27 here**
 - [Marija Kovacevic](https://github.com/marija-kov) ⛓️‍💥🐖🐄🐓🦃🐑🐇🦆
@@ -413,6 +415,7 @@ i
 - [Brother-Rabbit](https://github.com/brotherrabbit91) **Open Source Contribution**
 - [Saadgi Bawa](https://github.com/saadgibawa) **Open Source Contribution**
 - [Faraz Naqshbandi](https://github.com/faraznaqshbandi04) **Do it one more time!!!**
+>>>>>>> origin/main
 - [Utkarsh Kushwaha](https://github.com/theutkarshdev) **First open source contribution.**
 - [Almoiz khan](https://github.com/moiz2405) **Made First Open Source Contribution**
 - [Hamilcer](https://github.com/Hamilcer) **Let's do it**
@@ -1244,6 +1247,7 @@ Vedant Raut here and this is my first Contribution
 - [graycracker1](https://github.com/graycracker1) **First Contribution start of something new**
 - Ruchitankshi
 - Paul Perez
+- Christian Butler **Lets go**
 - [Kuzey Görgülü](https://github.com/KuzeyGorgulu)**Hey! Kuzey Görgülü from Turkey! A good way to start my career, huh?**
 - [Jaimin Suthar](https://github.com/jaimin78) **Hello, I'm Jaimin From India**
 - - [Christian](https://github.com/ginoongflores) **Hello, I'm Christian From Philippines**
